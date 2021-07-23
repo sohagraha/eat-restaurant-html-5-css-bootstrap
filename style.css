@@ -1,3 +1,11 @@
+.carousel-item {
+    height: 510px;
+}
+.carousel-item img{
+    height: 510px;
+    object-fit: cover;
+}
+
 .card{
     border-top: 2px solid yellow;
     border-radius: 0 0 15px 15px;
