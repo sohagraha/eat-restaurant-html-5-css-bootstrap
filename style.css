@@ -1,0 +1,12 @@
+.card{
+    border-top: 2px solid yellow;
+    border-radius: 0 0 15px 15px;
+    border-bottom: 15px solid rgba(0, 0, 0, 0.151);
+}
+.card i{
+    font-size: 40px;
+    color: tomato;
+}
+.card{
+    background-color: #F0F0F0;
+}
