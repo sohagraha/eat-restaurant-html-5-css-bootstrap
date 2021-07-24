@@ -18,3 +18,45 @@
 .card{
     background-color: #F0F0F0;
 }
+.position{
+    border-top: 2px solid #bfff47;
+    background-color: #250800 ;
+}
+.cards{
+    background-image: url(img/gallery/img1.jpg);
+    border-top: 2px solid rgb(175, 255, 71);
+    position: relative;
+}
+.cards:hover .body{
+    display: block;
+}
+.body{
+    position: absolute;
+    background-color: rgba(241, 241, 226, 0.26);
+    top: 0;
+    display: none;
+}
+.card-layer:hover{
+    background-color: tomato;
+}
+.slider-background{
+    background: url(img/img3.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+hr{
+    color: yellow;
+    border: 2px solid tomato;
+}
+
+.carousel{
+    margin-top: 50px;
+  }
+  .carousel-inner{
+    height: 350px;
+  }
+.carousel-caption{
+    color: #fff;
+    top: 5%;
+  }
