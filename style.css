@@ -53,10 +53,15 @@ hr{
 .carousel{
     margin-top: 50px;
   }
+
   .carousel-inner{
     height: 350px;
   }
 .carousel-caption{
     color: #fff;
     top: 5%;
+  }
+  .button-message{
+      background-color: #F39C12;
+      font-weight: 600;
   }
